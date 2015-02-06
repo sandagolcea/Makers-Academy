@@ -41,13 +41,13 @@ Project | Description | Technologies |
 
 
 ###Week 6
-Project | Description | Technologies |
- ------------ | :-----------: | -----------: |
-**[Maps](https://github.com/sandagolcea/maps)**  |    SVG map with selectable areas    | Javascript, JQuery, HTML, SVG |
-**[Makerbook](https://github.com/sandagolcea/makerbook)** |     Maker book fetches info for each github user specified using github API     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap |
+Project | Description | Technologies | Online |
+ ------------ | :-----------: | -----------: | -----------: |
+**[Maps](https://github.com/sandagolcea/maps)**  |    SVG map with selectable areas    | Javascript, JQuery, HTML, SVG | no |
+**[Makerbook](https://github.com/sandagolcea/makerbook)** |     Maker book fetches info for each github user specified using github API     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap | [yes](http://makerbook.herokuapp.com/user/new) |
 
 
-Table template:
+###Week 7
 
 Project | Description | Technologies |
  ------------ | :-----------: | -----------: |
