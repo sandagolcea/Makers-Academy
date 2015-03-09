@@ -52,24 +52,18 @@ Project | Description | Technologies | Online |
 **[AJAX](https://github.com/sandagolcea/AJAX)**  |    Github API served with NODE    | NODEjs, AJAX, Javascript, JQuery, HTML, CSS  | no |
 **[API-node](https://github.com/sandagolcea/API-node)** |     NODEjs API for serving cities on a web page.      |         Javascript, HTML, CSS, jQuery, Bootstrap | no |
 
-
 ###Week 8
+Project | Description | Technologies | Online |
+ ------------ | :-----------: | -----------: | -----------: |
+**[Makopolis](https://github.com/sandagolcea/Makopolis)** |     Simple Board Game with questions for testing your ruby knowledge     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap | [yes](makopolis.herokuapp.com) |
+
+###Week 9
 Project | Description | Technologies | Online |
  ------------ | :-----------: | -----------: | -----------: |
 **[Yelp-clone](https://github.com/sandagolcea/yelp-clone)**  |   Test Driven Yelp clone made in Ruby on Rails    | Ruby, Rspec, Ruby on Rails, HTML, PostreSQL | no |
 **[Instagram-clone](https://github.com/sandagolcea/instagram-challenge)** |     Test Driven Instagram clone made in Ruby on Rails     |         Ruby, Rspec, Ruby on Rails, HTML, CSS, Bootstrap, AWS S3, PostreSQL | [no]() |
 
-###Week 9
+###Week 10-11
 Project | Description | Technologies | Online |
  ------------ | :-----------: | -----------: | -----------: |
-**[Makopolis](https://github.com/sandagolcea/Makopolis)** |     Simple Board Game with questions for testing your ruby knowledge     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap | [yes](makopolis.herokuapp.com) |
-
-
-###Week 7
-
-Project | Description | Technologies |
- ------------ | :-----------: | -----------: |
-Content 1      |          *Spanning Cell*        ||
-Content  2     |   **Cell Bold**    |         Cell |
-New section   |     More      |         Data |
-And more      |            And more          |
+**[One Day Project](https://github.com/sandagolcea/One_Day_Experience_Prototype)**  |    Application for [One Day](https://openideo.com/challenge/youth-employment-pathways/ideas/one-day) charity, to help youngsters get in touch with a professional for a one day in-job experience    | Ruby, Ruby on Rails, Rspec, Cucumber, Google Maps, AWS S3, PostreSQL, HTML/CSS, Javascript, jQuery, AJAX | [yes](https://one-day-xp.herokuapp.com/) |
