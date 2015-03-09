@@ -1,5 +1,5 @@
 # Makers-Academy
-:stars: Summary of all my weeks at Makers Academy
+:stars: Summary of the projects that I have been working at during my weeks at the Makers Academy programming bootcamp in London.
 
 ###Week 1
 
@@ -45,6 +45,24 @@ Project | Description | Technologies | Online |
  ------------ | :-----------: | -----------: | -----------: |
 **[Maps](https://github.com/sandagolcea/maps)**  |    SVG map with selectable areas    | Javascript, JQuery, HTML, SVG | no |
 **[Makerbook](https://github.com/sandagolcea/makerbook)** |     Maker book fetches info for each github user specified using github API     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap | [yes](http://makerbook.herokuapp.com/user/new) |
+
+###Week 7
+Project | Description | Technologies | Online |
+ ------------ | :-----------: | -----------: | -----------: |
+**[AJAX](https://github.com/sandagolcea/AJAX)**  |    Github API served with NODE    | NODEjs, AJAX, Javascript, JQuery, HTML, CSS  | no |
+**[API-node](https://github.com/sandagolcea/API-node)** |     NODEjs API for serving cities on a web page.      |         Javascript, HTML, CSS, jQuery, Bootstrap | no |
+
+
+###Week 8
+Project | Description | Technologies | Online |
+ ------------ | :-----------: | -----------: | -----------: |
+**[Yelp-clone](https://github.com/sandagolcea/yelp-clone)**  |   Test Driven Yelp clone made in Ruby on Rails    | Ruby, Rspec, Ruby on Rails, HTML, PostreSQL | no |
+**[Instagram-clone](https://github.com/sandagolcea/instagram-challenge)** |     Test Driven Instagram clone made in Ruby on Rails     |         Ruby, Rspec, Ruby on Rails, HTML, CSS, Bootstrap, AWS S3, PostreSQL | [no]() |
+
+###Week 9
+Project | Description | Technologies | Online |
+ ------------ | :-----------: | -----------: | -----------: |
+**[Makopolis](https://github.com/sandagolcea/Makopolis)** |     Simple Board Game with questions for testing your ruby knowledge     |         NODEjs, Javascript, Jasmine, Grunt, HTML, CSS, jQuery, Bootstrap | [yes](makopolis.herokuapp.com) |
 
 
 ###Week 7
